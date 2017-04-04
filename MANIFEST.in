@@ -1,0 +1,3 @@
+include blogsimple/templates/*.html 
+include blogsimple/templates/blogsimple/*.html 
+include blogsimple/templates/blogsimple/admin/*.html
